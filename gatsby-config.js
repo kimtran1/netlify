@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: `/ktran10`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `PDF Flow`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kim Tran`,
+      summary: `who lives and works in Seattle building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `http://students.washington.edu/ktran10/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
@@ -53,7 +54,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+      trackingId: "UA-174973164-1",
       },
     },
     `gatsby-plugin-feed`,
