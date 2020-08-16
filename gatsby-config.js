@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/ktran10`,
+  //pathPrefix: `/ktran10`,
   siteMetadata: {
     title: `PDF Flow`,
     author: {
@@ -7,7 +7,7 @@ module.exports = {
       summary: `who lives and works in Seattle building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `http://students.washington.edu/ktran10/`,
+    //siteUrl: `http://students.washington.edu/ktran10/`,
     social: {
       twitter: ``,
     },
