@@ -1,6 +1,7 @@
 ---
 title: How zform.co is transforming paperwork.
 date: "2020-08-13T23:46:37.121Z"
+description: "zForm has a variety of forms related to tax that one can fill out quickly through the questionnaire interface. This process has helped me fill out the forms easily without having to decipher the tricky technical language."
 ---
 
 
