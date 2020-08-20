@@ -7,7 +7,7 @@ module.exports = {
       summary: `who lives and works in Seattle building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    //siteUrl: `http://students.washington.edu/ktran10/`,
+    siteUrl: "https://keen-lovelace-d4555f.netlify.app",
     social: {
       twitter: ``,
     },
